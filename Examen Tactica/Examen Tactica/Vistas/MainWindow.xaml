@@ -1,0 +1,13 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="611.47" Width="1866.387">
+    <Grid Margin="0,0,0,1">
+        <DataGrid HorizontalAlignment="Left" Height="100" Margin="992,274,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

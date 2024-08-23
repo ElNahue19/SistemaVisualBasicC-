@@ -1,0 +1,9 @@
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\bin\Debug\Dao.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\bin\Debug\Dao.pdb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\bin\Debug\Entidades.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\bin\Debug\Entidades.pdb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\obj\Debug\Dao.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Dao\obj\Debug\Dao.pdb

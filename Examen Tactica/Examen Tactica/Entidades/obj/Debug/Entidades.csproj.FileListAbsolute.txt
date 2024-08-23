@@ -1,0 +1,6 @@
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Entidades\bin\Debug\Entidades.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Entidades\obj\Debug\Entidades.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Entidades\obj\Debug\Entidades.pdb

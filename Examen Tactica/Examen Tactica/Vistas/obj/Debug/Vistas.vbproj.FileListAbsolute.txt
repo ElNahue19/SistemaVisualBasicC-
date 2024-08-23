@@ -1,0 +1,17 @@
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\bin\Debug\Vistas.exe
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\bin\Debug\Vistas.pdb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\bin\Debug\Vistas.xml
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.vbproj.AssemblyReference.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\MainWindow.g.vb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Application.g.vb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\MainWindow.baml
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.g.resources
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.Resources.resources
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.vbproj.GenerateResource.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.vbproj.CoreCompileInputs.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.exe
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.xml
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Vistas\obj\Debug\Vistas.pdb

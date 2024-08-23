@@ -1,0 +1,11 @@
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\bin\Debug\Negocio.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\bin\Debug\Negocio.pdb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\bin\Debug\Dao.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\bin\Debug\Entidades.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\bin\Debug\Dao.pdb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\bin\Debug\Entidades.pdb
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\obj\Debug\Negocio.dll
+C:\Users\nahue\OneDrive\Escritorio\Examen Tactica\Examen Tactica\Negocio\obj\Debug\Negocio.pdb
